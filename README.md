@@ -1,14 +1,4 @@
-# SourceCred Template Instance
-
-This repository contains a template for running a SourceCred instance.
-
-New users of SourceCred are encouraged to fork this repo to start their own
-instance.
-
-This repo comes with a GitHub action configured that will run SourceCred automatically
-every 6 hours, as well as any time you change the configuration.
-
-# About SourceCred Instances
+# IOTA Community SourceCred Instance
 
 SourceCred is organized around "instances". Every instance must have a
 `sourcecred.json` file at root, which specifies which plugins are active in the
