@@ -1,1 +1,23 @@
-{"repositories": ["iota-community/iota-wiki", "iota-community/community-events"]}
+{"repositories": [
+                  "iota-community/iota-wiki",
+                  "iota-community/community-events",
+                  "iota-community/iota-experience-team",
+                  "iota-community/X-Team_IOTA_Streams",
+                  "iota-community/X-Team_Bee",
+                  "iota-community/X-Team_IOTA_Libraries",
+                  "iota-community/X-Team_IOTA_Permanode",
+                  "iota-community/X-Team_GoShimmer",
+                  "iota-community/X-Team_Reddit_Allinone",
+                  "iota-community/X-Team_IOTA_SmartContracts",
+                  "iota-community/X-Team_IOTA_WebAssembly",
+                  "iota-community/X-Team_IOTA_Stronghold",
+                  "iota-community/X-Team_IOTA_Access",
+                  "iota-community/Community-Governance",
+                  "iota-community/IOTA-Discord",
+                  "iota-community/iota.php",
+                  "iota-community/awesome-iota",
+                  "iota-community/javascript-iota-workshop",
+                  "iota-community/python-iota-workshop",
+                  "iota-community/rust-iota-workshop"
+                 ]
+}
